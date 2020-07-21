@@ -10,7 +10,7 @@
   <img alt="BeTheHero" src=".github/bethehero.png" width="100%">
 </p>
 
-## Deescrição
+## Descrição
 
 Sistema Web e mobile, com objetivo de ajudar ONGs (Organizações não governamentais) com doações de acordo com suas necessidades, aumentando as chances de pequenas ONGs serem apoaidas.
 
